@@ -21,9 +21,9 @@
 </div> -->
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues&line_height=38" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues&line_height=38&text_bold=true" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalajJain7&layout=compact&" />
 </p>
 <!---
 JalajJain7/JalajJain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
