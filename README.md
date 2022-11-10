@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true)
 
 <!---
 JalajJain7/JalajJain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
