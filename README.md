@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalajJain7)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=JalajJain7)&count_private=true
 
 <!---
 JalajJain7/JalajJain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
