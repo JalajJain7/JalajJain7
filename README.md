@@ -21,7 +21,7 @@
 </div> -->
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues&line_height=35" />
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
