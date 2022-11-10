@@ -12,11 +12,11 @@
 
 
 <div class="row">
-  <div class="column">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues" />
+  <div class="column" width="50%">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JalajJain7&count_private=true&include_all_commits=true&hide=issues" />
   </div>
-  <div class="column">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <div class="column" width="50%">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </div>
 </div>
 <!---
